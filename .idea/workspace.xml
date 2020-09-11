@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="added privacy NOTICE" />
+    <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="rebuild">
+      <change afterPath="$PROJECT_DIR$/assets/packages/flutter_markdown/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -59,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598380121016</updated>
       <workItem from="1598380122143" duration="752000" />
-      <workItem from="1599855364311" duration="304000" />
+      <workItem from="1599855364311" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="hello world!">
       <created>1598380155255</created>
@@ -82,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599855578295</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="removed hash">
+      <created>1599855689607</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599855689607</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rebuild">
+      <created>1599855989587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599855989587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +125,9 @@
     <MESSAGE value="hello world!" />
     <MESSAGE value="some more files" />
     <MESSAGE value="added privacy NOTICE" />
-    <option name="LAST_COMMIT_MESSAGE" value="added privacy NOTICE" />
+    <MESSAGE value="removed hash" />
+    <MESSAGE value="rebuild" />
+    <option name="LAST_COMMIT_MESSAGE" value="rebuild" />
   </component>
   <component name="WindowStateProjectService">
     <state x="221" y="63" key="SettingsEditor" timestamp="1599855457678">
