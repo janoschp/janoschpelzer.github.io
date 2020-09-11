@@ -10,6 +10,7 @@ const RESOURCES = {
 "assets/AssetManifest.json": "6fc4079cea3681fdc38c21378c7a1969",
 "assets/NOTICES": "9c51c4191de282b39317ab41aa25327a",
 "assets/FontManifest.json": "43c5d3593cbefe3bae819b37cc8e5291",
+"assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/fonts/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
 "assets/fonts/KirangHaerang-Regular.ttf": "42b65067bc09772625dcbb9c2ac6176b",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",

@@ -108,9 +108,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="added privacy NOTICE" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598380249870">
+    <state x="221" y="63" key="SettingsEditor" timestamp="1599855457678">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598380249870" />
+    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599855457678" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599855690974">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599855690974" />
   </component>
 </project>
