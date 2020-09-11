@@ -15392,7 +15392,7 @@ s.toString
 r=window.location.search
 r.toString
 r=s+r
-s=r}else s="#"+a
+s=r}else s=""+a
 return s},
 qJ:function(){var s={},r=new P.W($.R,t.D)
 s.a=null

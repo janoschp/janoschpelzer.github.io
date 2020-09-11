@@ -10,23 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="First release">
-      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/covert/screenshot_1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/covert/screenshot_2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/covert/screenshot_3.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/void/screenshot_1.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/assets/void/screenshot_2.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/KirangHaerang-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/PermanentMarker-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
-    </list>
+    <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="added privacy NOTICE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +44,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -72,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598380121016</updated>
       <workItem from="1598380122143" duration="752000" />
+      <workItem from="1599855364311" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="hello world!">
       <created>1598380155255</created>
@@ -87,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598380249209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added privacy NOTICE">
+      <created>1599855578295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599855578295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,9 +101,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="hello world!" />
     <MESSAGE value="some more files" />
-    <option name="LAST_COMMIT_MESSAGE" value="some more files" />
+    <MESSAGE value="added privacy NOTICE" />
+    <option name="LAST_COMMIT_MESSAGE" value="added privacy NOTICE" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598380249870">
