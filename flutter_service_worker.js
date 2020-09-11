@@ -5,10 +5,10 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "45116cbba167989b1fe29ef8e4bbebe3",
 "/": "45116cbba167989b1fe29ef8e4bbebe3",
-"main.dart.js": "376aedb325502b412e1b2caebaa99d04",
+"main.dart.js": "22566d25b3a8adbff27f8eee1ba9f336",
 "manifest.json": "0541ce2d9599b79677eb41e0f2b959c0",
-"assets/AssetManifest.json": "3e804219f185483e001bd886a5b00c25",
-"assets/NOTICES": "49f037da570e466f20aa6a51b273f4a2",
+"assets/AssetManifest.json": "6fc4079cea3681fdc38c21378c7a1969",
+"assets/NOTICES": "9c51c4191de282b39317ab41aa25327a",
 "assets/FontManifest.json": "43c5d3593cbefe3bae819b37cc8e5291",
 "assets/fonts/PermanentMarker-Regular.ttf": "c863f8028c2505f92540e0ba7c379002",
 "assets/fonts/KirangHaerang-Regular.ttf": "42b65067bc09772625dcbb9c2ac6176b",
@@ -34,8 +34,8 @@ const CORE = [
 self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
-      return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+      // Provide a 'reload' param to ensure the latest version is downloaded.
+      return cache.addAll(CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });

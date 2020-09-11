@@ -10,8 +10,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="some more files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="First release">
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/covert/screenshot_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/covert/screenshot_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/covert/screenshot_3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/void/screenshot_1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/assets/void/screenshot_2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/KirangHaerang-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/PermanentMarker-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1gbP3gqvTIw5eJoVcpNYyRRSpNn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,6 +103,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello world!" />
