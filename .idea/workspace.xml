@@ -11,9 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10546f8f-c84f-44c8-ae60-87f78530c37a" name="Default Changelist" comment="rebuild">
-      <change afterPath="$PROJECT_DIR$/assets/packages/flutter_markdown/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/version.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AssetManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/AssetManifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.dart.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +61,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598380121016</updated>
       <workItem from="1598380122143" duration="752000" />
-      <workItem from="1599855364311" duration="621000" />
+      <workItem from="1599855364311" duration="1143000" />
+      <workItem from="1617747113118" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="hello world!">
       <created>1598380155255</created>
@@ -102,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599855989587</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="rebuild">
+      <created>1599856015093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599856015093</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,15 +146,5 @@
     <MESSAGE value="removed hash" />
     <MESSAGE value="rebuild" />
     <option name="LAST_COMMIT_MESSAGE" value="rebuild" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="221" y="63" key="SettingsEditor" timestamp="1599855457678">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="221" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599855457678" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1599855690974">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1599855690974" />
   </component>
 </project>
